@@ -1,0 +1,8 @@
+keyboard==0.13.5
+numpy==1.22.4
+opencv_python_headless==4.5.5.62
+Pillow==9.2.0
+pywin32==303
+setuptools==56.0.0
+tabulate==0.8.9
+tesserocr==2.5.2
