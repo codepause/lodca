@@ -8,7 +8,7 @@ CV-project made for League of Legends. General idea is to **predict** damage of 
 ### Installation:
 - Install [EPTA](https://github.com/antistack/epta)
 - Install [tesserocr](https://github.com/sirfz/tesserocr)
-- Install [LODCA]()
+- Install [LODCA](https://github.com/codepause/lodca)
 ```
 git clone https://github.com/codepause/lodca
 cd lodca
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python setup.py develop
 ```
 - Templates for image recognition. [Data Dragon](https://developer.riotgames.com/docs/lol) 
-- Configure [config](https://github.com/codepause/lodca/blob/main/lodca/configs/app_settings.py):
+- Configure [config](https://github.com/codepause/lodca/blob/master/lodca/configs/app_settings.py):
 ``` 
 Specify path for two folders with images in TemplateSettings:
  dragontail/{version}/img/{item, champion}
