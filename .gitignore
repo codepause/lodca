@@ -137,3 +137,4 @@ tests/temp/templates/item
 tests/temp/examples
 tests/temp/tessexe
 demo/temp
+*.DS_Store

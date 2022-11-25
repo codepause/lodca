@@ -3,6 +3,8 @@
 ### About:
 CV-project made for League of Legends. General idea is to **predict** damage of a player champion for a current game state.
 
+<img src="/demo/gifs/lodca_example.gif?raw=true" width="720px">
+
 [Youtube video](https://youtu.be/7OyWXWnVABw)
 
 ### Installation:
