@@ -55,7 +55,7 @@ python main.py
 ### Acknowledgement:
 
 - [tesserocr](https://github.com/sirfz/tesserocr)
-- [Antistack basic tools for CV bots](https://github.com/antistack/epta)
+- [Easy Pipeline Tools for Automation](https://github.com/antistack/epta)
 
 ## P.S:
 
